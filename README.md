@@ -1,6 +1,6 @@
 # provider_example_project
 
-A new Flutter project.
+Demonstration Counter in Provider State Management 
 
 ## Getting Started
 

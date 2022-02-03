@@ -1,10 +1,8 @@
-// Copyright 2019 The Chromium Authors. All rights reserved.
-// Use of this source code is governed by a BSD-style license that can be
-// found in the LICENSE file.
 
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'counter.dart';
+
 void main() {
   runApp(
     // Provide the model to all widgets within the app. We're using
